@@ -1,10 +1,10 @@
 ## Olá 👋
-- 🤔 Estou estudando desenvolvimento backend com C# e .NET, além de possuir conhecimentos em HTML e CSS.
+- 🚀 Estou estudando desenvolvimento backend com C# e .NET, além de possuir conhecimentos em HTML e CSS.
 - 🌱 Atualmente estou aprendendo ASP.NET Core, Entity Framework Core e APIs REST
 - 🤔 Estou procurando ajuda com arquitetura de software e boas práticas
 - 💬 Pergunte-me sobre C#, .NET, HTML e CSS
 - 📫 Como me encontrar: em breve
-- ⚡ Curiosidade: gosto de patinar 🛼
+- ⚡ Curiosidade: urban skater 🛼😎
 <!--
 **lazaroLopes67/lazaroLopes67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
