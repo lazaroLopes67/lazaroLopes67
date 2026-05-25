@@ -1,21 +1,26 @@
-## Olá 👋
-- 🚀 Estou estudando desenvolvimento backend com C# e .NET, além de possuir conhecimentos em HTML e CSS.
-- 🌱 Atualmente estou aprendendo ASP.NET Core, Entity Framework Core e APIs REST
-- 🤔 Estou procurando ajuda com arquitetura de software e boas práticas
-- 💬 Pergunte-me sobre C#, .NET, HTML e CSS
-- 📫 Como me encontrar: em breve
-- ⚡ Curiosidade: urban skater 🛼😎
-<!--
-**lazaroLopes67/lazaroLopes67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi
 
-Here are some ideas to get you started:
+🚀 Backend development student focused on C# and .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- Software Architecture
+- Clean Code
+
+## 🛠️ Technologies
+- C#
+- .NET
+- MySQL
+
+## 🎯 Goals
+- Improve backend development skills
+- Learn scalable architecture patterns
+- Build real-world APIs and applications
+
+## 📫 Contact
+Coming soon.
+
+## ⚡ Fun Fact
+Urban skater 🛼😎
